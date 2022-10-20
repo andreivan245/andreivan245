@@ -1,4 +1,8 @@
-### Hi there, I'm André Welcome to my Profile!!!😁
+<h1 align="center">
+  Hi there, I'm André
+  <br />
+  Welcome to my Profile!!!
+</h1>
 
 ## Connect with me:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-castro-3ab614178/)
