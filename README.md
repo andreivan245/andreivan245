@@ -9,7 +9,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andre_ivan95/)
 
 
-##📊 My Github Stats:
+## 📊 My Github Stats:
 <div align="center">
   <a href="https://github.com/andreivan245">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreivan245&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
