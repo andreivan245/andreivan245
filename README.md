@@ -1,10 +1,11 @@
-### Olá! Eu sou o André 😁
+### Hi there, I'm André Welcome to my Profile!!!😁
 
+## Connect with me:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-castro-3ab614178/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andre_ivan95/)
 
 
-
+## My Github Stats:
 <div align="center">
   <a href="https://github.com/andreivan245">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreivan245&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -12,7 +13,7 @@
 </div>
 
 
-## Tecnologias
+## Languages and Tools:
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
