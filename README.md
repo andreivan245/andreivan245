@@ -4,3 +4,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andre_ivan95/)
 
 ![andreivan245 GitHub stats](https://github-readme-stats.vercel.app/api?username=andreivan245&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreivan245&layout=compact)](https://github.com/andreivan245/github-readme-stats)
